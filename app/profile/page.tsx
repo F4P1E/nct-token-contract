@@ -1,0 +1,11 @@
+import { ProfileDashboard } from "@/components/profile/profile-dashboard"
+
+export default function ProfilePage() {
+  return (
+    <main className="min-h-screen bg-background">
+      <div className="container mx-auto px-4 py-12">
+        <ProfileDashboard />
+      </div>
+    </main>
+  )
+}
