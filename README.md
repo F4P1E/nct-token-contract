@@ -1,7 +1,7 @@
 # Neo-Culture Token (NCT) Ecosystem
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)  
-[![Solidity](https://img.shields.io/badge/Solidity-^0.8.x-blue.svg)]() [![Hardhat](https://img.shields.io/badge/Hardhat-v2-purple.svg)]() [![Next.js](https://img.shields.io/badge/Next.js-v13-black.svg)]()  
+[![Solidity](https://img.shields.io/badge/Solidity-^0.8.x-blue.svg)]() [![Hardhat](https://img.shields.io/badge/Hardhat-v2-purple.svg)]() [![Next.js](https://img.shields.io/badge/Next.js-v14-black.svg)]()  
 
 **Neo-Culture Token (NCT)** is a production-ready Web3 ecosystem built for the Neo Culture Tech community. It features token swaps, an NFT marketplace, reward distribution, and a comprehensive dashboard — all optimized for testnet deployment.
 
